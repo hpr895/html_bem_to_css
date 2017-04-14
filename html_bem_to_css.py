@@ -7,7 +7,7 @@ import re
 # from pprint import pprint
 
 
-class html_to_cssCommand(sublime_plugin.TextCommand):
+class html_bem_to_cssCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 
 
